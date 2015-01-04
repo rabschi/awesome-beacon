@@ -96,6 +96,7 @@ A curated list of awesome iBeacon software, libraries and use cases. Inspired by
 
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
+* [BeaconKeeper - the simple library for locating iBeacons in background](https://github.com/m039/beacon-keeper)
 
 * [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
@@ -108,6 +109,7 @@ A curated list of awesome iBeacon software, libraries and use cases. Inspired by
 * [Android app that scans for BLE Beacons/iBeacons and logs the results to a file](https://github.com/justinodwyer/Beacon-Scanner-and-Logger)
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
+* [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app). Open-source app for locating iBeacons.
 
 ### Stackoverflow Q&A
 

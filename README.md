@@ -109,7 +109,7 @@ A curated list of awesome iBeacon software, libraries and use cases. Inspired by
 * [Android app that scans for BLE Beacons/iBeacons and logs the results to a file](https://github.com/justinodwyer/Beacon-Scanner-and-Logger)
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
-* [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app). Open-source app for locating iBeacons.
+* [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app)
 
 ### Stackoverflow Q&A
 

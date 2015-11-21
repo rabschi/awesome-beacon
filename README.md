@@ -1,6 +1,6 @@
-# Awesome iBeacon & Eddystone Tools & Links
+# Awesome iBeacon & Eddystone Tools & Links [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome iBeacon and Eddystone links, open source projects, libraries, tools, tutorials and guides. Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome iBeacon and Eddystone links, open source projects, libraries, tools, tutorials and guides. Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome).
 
 This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
@@ -198,15 +198,6 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 * [Dialog Semiconductor](http://www.dialog-semiconductor.com/products/bluetooth-smart)
 * [CSR](https://wiki.csr.com/wiki/Main_Page#Bluetooth_Smart) & [CSR Mesh](https://wiki.csr.com/wiki/CSRmesh)
 * [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
-
-
-
-# Contribute
-
-* **To add to the list:** Submit a pull request
-* **To remove from the list:** Open an issue
-
-Please open an issue if you find anything that could be improved or have suggestions for making the list a more valuable resource.
 
 ---
 

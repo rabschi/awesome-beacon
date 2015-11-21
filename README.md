@@ -176,7 +176,7 @@ A curated list of awesome iBeacon software, libraries and use cases. Inspired by
 
 ## Beacon Developer Kits & BLE Chips
 
-
+* [Dialog Semiconductor Beacon Reference Design](http://support.dialog-semiconductor.com/ref-designs#beacon)
 * [Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
 * [Texas Instruments - BLE Portal](http://ti.com/ble)
 * [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
@@ -185,6 +185,7 @@ A curated list of awesome iBeacon software, libraries and use cases. Inspired by
 * [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/products/wiced/sense/)
 * [Dialog Semiconductor](http://www.dialog-semiconductor.com/products/bluetooth-smart)
 * [CSR](https://wiki.csr.com/wiki/Main_Page#Bluetooth_Smart) & [CSR Mesh](https://wiki.csr.com/wiki/CSRmesh)
+* [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
 
 Beacons can come in a variety of form factors. Pure beacons, BLE Arduinos, Raspberry Pi, iOS or Mac software... See [RedBear Labs](http://redbearlab.com/) for a good overview.
 

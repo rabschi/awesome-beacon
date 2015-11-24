@@ -41,6 +41,7 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 
 * [Beacon Developer Hub](http://developers.beaconinside.com) (by Beaconinside)
 * [beekn.net - Beacons, brands, and culture on the Internet of Things](http://beekn.net)
+* [Crafting and Launching Successful Beacon Apps](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/) (by Vektor Digital)
 * [Developer Blog](http://developer.radiusnetworks.com/blog/) (by Radius Networks)
 * [The Talking Llama. Beacons, Mobile, Web Apps, Tech.](http://www.thetalkingllama.com/)
 * [LOCPlace - LBMA Slides](http://de.slideshare.net/LOCplace/)
@@ -77,6 +78,7 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 # Hacks & Cool Apps
 
 * [Google Glass & Beacons](https://github.com/tmwagency/Glasstimote)
+* [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
 * [PunchClock](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 * [The Geofancy iOS app](https://github.com/Geofancy/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
@@ -100,6 +102,7 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 ## Swift
 
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
+* [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](http://www.pubnub.com/blog/smart-ibeacon-communication-in-the-swift-programming-language/)
 

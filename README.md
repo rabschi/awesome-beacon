@@ -1,8 +1,6 @@
-# Awesome iBeacon & Eddystone Tools & Links [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome iBeacon and Eddystone links, open source projects, libraries, tools, tutorials and guides. Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome](https://github.com/sindresorhus/awesome).
-
-This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
+A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
 
 ## Official Eddystone Resources (by Google)
@@ -56,6 +54,7 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 
 ## Vendor-driven Beacon Standardization
 
+* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
 * [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github](https://github.com/AwwApps/Open-Beacon-Credentials)
 * [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
@@ -157,7 +156,7 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 
 
 
-# MAC OSX
+# OS X
 
 * [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner)
@@ -205,3 +204,9 @@ This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.c
 ---
 
 Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the property of their respective trademark owners.
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.

@@ -29,8 +29,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iBeacon for Developers](https://developer.apple.com/ibeacon)
 * [Getting Started with iBeacon (PDF) ](https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf)
 * [iBeacon Artwork and Specifications](https://developer.apple.com/ibeacon/)
-* [iOS: Understanding iBeacon device compatibility](http://support.apple.com/kb/HT6048)
-* [iOS 7: Understanding Location Services](http://support.apple.com/kb/HT5594)
+* [iOS: Understanding iBeacon device compatibility](https://support.apple.com/en-us/HT202880)
+* [iOS 7: Understanding Location Services](https://support.apple.com/en-us/HT201357)
 * [Apple AirLocate Sample Code](https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html) ([iOS8 fix](http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons))
 * [Location and Maps Programming Guide (PDF)](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/LocationAwarenessPG.pdf)
 
@@ -48,7 +48,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Proximity Trends & Outlook
 
 * [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 4 Reasons Why Apple’s iBeacon Is About to Disrupt Interaction Design
-* [Proxbook](http://www.proxbook.com) The Guide for Proximity Marketing by Unacast
+* [Proxbook](https://www.proxbook.com/) The Guide for Proximity Marketing by Unacast
 * [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
 
 
@@ -65,8 +65,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Building Applications with iBeacon](http://shop.oreilly.com/product/0636920033813.do)
 * [Cisco iBeacon FAQ](http://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/connected-mobile-experiences/ibeacon_faq.pdf)
-* [5 Minute Overview - What is iBeacon? by ThoughtWorks](http://www.thoughtworks.com/insights/blog/what-is-ibeacon-in-5-minutes)
-* [A Semi-Technical Lowdown on Working with iBeacons](http://www.thoughtworks.com/insights/blog/semi-technical-lowdown-working-ibeacons)
+* [5 Minute Overview - What is iBeacon? by ThoughtWorks](https://www.thoughtworks.com/insights/blog/what-is-ibeacon-in-5-minutes)
+* [A Semi-Technical Lowdown on Working with iBeacons](https://www.thoughtworks.com/insights/blog/semi-technical-lowdown-working-ibeacons)
 * [CapTech Webinar: iBeacon Demystified](https://www.youtube.com/watch?v=0IGeQqEGhx4)
 * [5 fundamental misconceptions about Beacon technology by RadiusNetworks](http://developer.radiusnetworks.com/2014/01/10/ibeacon-misconceptions.html)
 * [Ask a Dev: What Are the Limitations of Beacons?](http://mashable.com/2014/05/09/beacons-limitations/)
@@ -79,14 +79,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Google Glass & Beacons](https://github.com/tmwagency/Glasstimote)
 * [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
 * [PunchClock](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
-* [The Geofancy iOS app](https://github.com/Geofancy/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
+* [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
 
 
 
 ## Installation & Radio Planning
 
-* [Brooklyn Museum - Positioning Visitors with iBeacons](http://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/)
+* [Brooklyn Museum - Positioning Visitors with iBeacons](https://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/)
 
 
 # iOS
@@ -103,7 +103,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
-* [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](http://www.pubnub.com/blog/smart-ibeacon-communication-in-the-swift-programming-language/)
+* [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
 
 ## Objective-C
 
@@ -174,8 +174,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Bluetooth Low Energy
 
-* [Official Bluetooth Smart Portal](http://www.bluetooth.com/Pages/Bluetooth-Smart.aspx)
-* [Bluetooth Smart Go To Market Toolkit](https://www.bluetooth.org/en-us/bluetooth-brand/go-to-market-toolkit)
+* [Official Bluetooth Smart Portal](https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy)
+* [Bluetooth Smart Go To Market Toolkit](https://www.bluetooth.com/marketing-branding/market-your-bluetooth-product)
 * [Bluetooth BLE Library](http://www.argenox.com/bluetooth-low-energy-ble-v4-0-development/library/)
 
 
@@ -192,12 +192,12 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Dialog Semiconductor Beacon Reference Design](http://support.dialog-semiconductor.com/ref-designs#beacon)
 * [Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
-* [Texas Instruments - BLE Portal](http://ti.com/ble)
+* [Texas Instruments - BLE Portal](http://www.ti.com/ble)
 * [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 * [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
 * [TI Mini Bluetooth® Low Energy Broadcaster](http://www.ti.com/tool/TIDC-MINI-BLUETOOTH-LOW-ENERGY-BROADCASTER)
-* [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/products/wiced/sense/)
-* [Dialog Semiconductor](http://www.dialog-semiconductor.com/products/bluetooth-smart)
+* [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/application/internet_of_things.php)
+* [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
 * [CSR](https://wiki.csr.com/wiki/Main_Page#Bluetooth_Smart) & [CSR Mesh](https://wiki.csr.com/wiki/CSRmesh)
 * [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
 

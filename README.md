@@ -8,6 +8,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
+* [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) - Ubiquity Dev Summit 2016
 * [Get Started with Beacons](https://developers.google.com/beacons/get-started) - This guide explains the steps required to start using Bluetooth low energy (BLE) beacons to provide proximity-based experiences for your users.
 * [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) - A cloud service that allows you to manage data associated with your BLE beacons using a REST interface
 * [Nearby](https://developers.google.com/nearby/) - Build simple interactions between nearby devices and people
@@ -19,7 +20,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 > The **Physical Web** is an approach to unleash the core superpower of the web: interaction on demand. People should be able to walk up to any smart device - a vending machine, a poster, a toy, a bus stop, a rental car - and not have to download an app first. Everything should be just a tap away.
 
-* [Physical Web - Walk up and use anything](http://google.github.io/physical-web/)
+* [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - Ubiquity Dev Summit 2016
+* [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) - Official Github repository
+* [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
 
 
 ## Official iBeacon Resources (by Apple)

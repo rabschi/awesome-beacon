@@ -3,18 +3,18 @@
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
 
-## Official Eddystone Resources (by Google)
+## Eddystone by Google
 
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) - Ubiquity Dev Summit 2016
-* [Get Started with Beacons](https://developers.google.com/beacons/get-started) - This guide explains the steps required to start using Bluetooth low energy (BLE) beacons to provide proximity-based experiences for your users.
-* [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) - A cloud service that allows you to manage data associated with your BLE beacons using a REST interface
-* [Nearby](https://developers.google.com/nearby/) - Build simple interactions between nearby devices and people
 * [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone)
+* Advertising frame types
+  * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
+  * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
+  * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url)
 * [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator)
-* [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding)
+* [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
 
 ## Physical Web
 
@@ -23,9 +23,18 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - Ubiquity Dev Summit 2016
 * [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) - Official Github repository
 * [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
+* [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
 
 
-## Official iBeacon Resources (by Apple)
+## Proximity Beacon API by Google
+
+* [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) - Video Ubiquity Dev Summit 2016
+* [Get Started with Beacons](https://developers.google.com/beacons/get-started) - This guide explains the steps required to start using Bluetooth low energy (BLE) beacons to provide proximity-based experiences for your users.
+* [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) - A cloud service that allows you to manage data associated with your BLE beacons using a REST interface
+* [Nearby](https://developers.google.com/nearby/) - Build simple interactions between nearby devices and people
+
+
+## iBeacon Resources by Apple
 
 > **iBeacon for Developers** From welcoming people as they arrive at a sporting event to providing information about a nearby museum exhibit, iBeacon opens a new world of possibilities for location awareness, and countless opportunities for interactivity between iOS devices and iBeacon hardware.
 
@@ -89,7 +98,12 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 ## Installation & Radio Planning
 
-* [Brooklyn Museum - Positioning Visitors with iBeacons](https://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/)
+* Brooklyn Museum: [Positioning Visitors with iBeacons](https://www.brooklynmuseum.org/community/blogosphere/2014/10/14/positioning-visitors-with-ibeacons/) & [Getting Visibility on the iBeacon Problem](https://www.brooklynmuseum.org/community/blogosphere/2016/02/23/getting-visibility-on-the-ibeacon-problem/)
+
+
+## Beacon Discovery & Configuration Tools
+
+* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) - A ruby gem that allows you to scan for beacon advertisements using IOBluetooth (on Mac OS X) or a BlueGiga BLE112 device (on mac or linux)
 
 
 # iOS
@@ -190,6 +204,10 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [BlueSpeed for iOS by Punch Through](https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8) Runs a Bluetooth LE speed test between 2 iOS devices
 * [Nordic BLE nRF Sniffer](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF-Sniffer)
 
+## Web Bluetooth API
+
+* [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos)
 
 # Beacon Developer Kits & BLE Chips
 

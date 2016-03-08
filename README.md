@@ -177,8 +177,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner)
-* [Beacon OSX - Mavericks as an iBeacon](https://github.com/mttrb/BeaconOSX)
-
+* [Beacon OSX](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
+* [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
+* [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
 
 
 

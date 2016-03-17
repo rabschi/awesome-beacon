@@ -24,7 +24,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) - Official Github repository
 * [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
 * [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
-
+* [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 
 ## Proximity Beacon API by Google
 

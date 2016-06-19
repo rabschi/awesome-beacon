@@ -166,6 +166,10 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
 * [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app)
 
+## Beacon Advertiser Apps
+
+* [Beacon Simulator](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator) - iBeacon, Eddystone, AltBeacon
+
 ## Stackoverflow Q&A
 
 * [BLE Distancing](http://stackoverflow.com/questions/20416218/understanding-ibeacon-distancing/20434019#20434019)

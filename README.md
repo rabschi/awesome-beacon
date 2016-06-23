@@ -18,6 +18,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
 * [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
+* [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
 
 ## Physical Web
 

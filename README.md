@@ -192,7 +192,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
 * [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
 
+# Linux
 
+* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon)
 
 # Node.js
 

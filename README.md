@@ -129,6 +129,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
 * [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit)
+* [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
 
 ## Objective-C
 

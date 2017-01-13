@@ -24,12 +24,13 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 > The **Physical Web** is an approach to unleash the core superpower of the web: interaction on demand. People should be able to walk up to any smart device - a vending machine, a poster, a toy, a bus stop, a rental car - and not have to download an app first. Everything should be just a tap away.
 
-* [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - Ubiquity Dev Summit 2016
 * [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) - Official Github repository
-* [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
-* [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
+* [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - Ubiquity Dev Summit 2016
+* [URL Validator 1](https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/), [URL Validator 2](https://url-caster.appspot.com/webui)
 * [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 * [Physical Web Implementation Status](https://github.com/google/physical-web/blob/master/implementation-status.md)
+* [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
+* [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) by R. Want, B. Schilit, S. Jenson
 
 ## Proximity Beacon API by Google
 
@@ -153,6 +154,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Development
 
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
+* [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) & [Docs](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
 * [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)

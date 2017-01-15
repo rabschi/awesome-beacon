@@ -154,7 +154,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Development
 
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
-* [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android) & [Docs](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
+* [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
 * [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)

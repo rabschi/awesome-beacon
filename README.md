@@ -17,8 +17,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (by Nordic Semiconductor)
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
 * [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
-* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
-* [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
 
 ## Physical Web
 
@@ -51,32 +49,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iOS 7: Understanding Location Services](https://support.apple.com/en-us/HT201357)
 * [Apple AirLocate Sample Code](https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html) ([iOS8 fix](http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons))
 * [Location and Maps Programming Guide (PDF)](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/LocationAwarenessPG.pdf)
-
-
-## Industry News, Blogs & Presentations
-
-* [Beacon Developer Hub](http://developers.beaconinside.com) (by Beaconinside)
-* [beekn.net - Beacons, brands, and culture on the Internet of Things](http://beekn.net)
-* [Crafting and Launching Successful Beacon Apps](http://www.vektordigital.com/2015/11/16/crafting-and-launching-successful-beacon-apps/) (by Vektor Digital)
-* [Developer Blog](http://developer.radiusnetworks.com/blog/) (by Radius Networks)
-* [The Talking Llama. Beacons, Mobile, Web Apps, Tech.](http://www.thetalkingllama.com/)
-* [LOCPlace - LBMA Slides](http://de.slideshare.net/LOCplace/)
-
-
-## Proximity Trends & Outlook
-
-* [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 4 Reasons Why Apple’s iBeacon Is About to Disrupt Interaction Design
-* [Proxbook](https://www.proxbook.com/) The Guide for Proximity Marketing by Unacast
-* [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
-
-
-## Vendor-driven Beacon Standardization
-
-* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
-* [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
-* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github](https://github.com/AwwApps/Open-Beacon-Credentials)
-* [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
-
 
 
 ## iBeacon for Developers
@@ -119,8 +91,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Beacon Scanner Apps
 
 * [Locate Beacon by RadiusNetworks](https://itunes.apple.com/us/app/locate-for-ibeacon/id738709014?mt=8)
-* [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
-
 
 ## Swift
 
@@ -146,6 +116,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Can we start iBeacon transmitter in background?](http://stackoverflow.com/questions/24164523/can-we-start-ibeacon-transmitter-in-background/24165073#24165073)
 * [How does iBeacon wake up our app?](http://stackoverflow.com/questions/24590534/how-does-ibeacon-wake-up-our-app-for-how-long-and-how-to-extend-that-time/24590886#24590886)
 * [Use Core Bluetooth instead of iBeacon - Any Downsides?](http://stackoverflow.com/questions/24267421/use-core-bluetooth-instead-of-ibeacon-any-downsides/24268389#24268389)
+
+# Virtual Beacons
+
+* [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
+* [Android BLE advertising library](https://github.com/uriio/beacons-android)
+* [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
+* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
+* [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon)
 
 
 
@@ -241,6 +219,24 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
 * [CSR](https://wiki.csr.com/wiki/Main_Page#Bluetooth_Smart) & [CSR Mesh](https://wiki.csr.com/wiki/CSRmesh)
 * [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
+
+
+
+## Proximity Trends & Outlook
+
+* [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 4 Reasons Why Apple’s iBeacon Is About to Disrupt Interaction Design
+* [Proxbook](https://www.proxbook.com/) The Guide for Proximity Marketing by Unacast
+* [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
+
+
+## Vendor-driven Beacon Standardization
+
+* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
+* [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
+* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github](https://github.com/AwwApps/Open-Beacon-Credentials)
+* [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
+
+
 
 ---
 

@@ -178,6 +178,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Linux
 
 * [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon)
+* [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon)
 
 # Node.js
 

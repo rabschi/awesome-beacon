@@ -124,7 +124,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
 * [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon)
-
+* [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
 
 # Android

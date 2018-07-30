@@ -189,6 +189,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [A node.js BLE (Bluetooth low energy) central module](https://github.com/sandeepmistry/noble)
 * [A node.js module for implementing BLE (Bluetooth low energy) peripherals](https://github.com/sandeepmistry/bleno)
 
+# Windows
+
+* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) - open source library and links to apps to talk to Eddystone and iBeacon beacons
 
 # Bluetooth Low Energy
 

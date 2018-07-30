@@ -102,6 +102,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
 * [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit)
 * [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon.
 
 ## Objective-C
 
@@ -175,6 +176,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Beacon OSX](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
 * [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon detection framework ns Swift using CoreBluetooth, supporting Eddystone-UID, Eddystone-URL, AltBeacon, iBeacon.
 
 # Linux
 

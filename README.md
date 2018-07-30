@@ -108,6 +108,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Generic iBeacon Management and Utilities by KinveyLabs](https://github.com/KinveyLabs/KCSIBeacon/)
 * [Replicates detecting and broadcasting iBeacons in the background](https://github.com/Instrument/Vicinity)
+* [RABeaconManager](https://github.com/reelyactive/ble-ios-sdk) RABeaconManager is an easy to use library that allows you to detect Bluetooth Beacons and iBeacons in the foreground and background.
 
 
 ## Stackoverflow Q&A
@@ -142,6 +143,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android](https://github.com/RedBearLab/Android)
 * [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
+* [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) This SDK allows you to scan beacons and advertise as a beacon.
 
 ## Beacon Scanner Apps
 

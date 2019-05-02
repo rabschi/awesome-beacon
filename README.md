@@ -1,6 +1,6 @@
 # Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
+A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials.
 
 
 ## Eddystone by Google
@@ -49,7 +49,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iOS: Understanding iBeacon device compatibility](https://support.apple.com/en-us/HT202880)
 * [iOS 7: Understanding Location Services](https://support.apple.com/en-us/HT201357)
 * [Apple AirLocate Sample Code](https://developer.apple.com/library/ios/samplecode/AirLocate/Introduction/Intro.html) ([iOS8 fix](http://stackoverflow.com/questions/26079530/apple-airlocation-demo-app-ranging-not-shows-beacons))
-* [Location and Maps Programming Guide (PDF)](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/LocationAwarenessPG.pdf)
 
 
 ## iBeacon for Developers
@@ -122,7 +121,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Virtual Beacons
 
-* [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=com.uriio)
 * [Android BLE advertising library](https://github.com/uriio/beacons-android)
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
@@ -138,7 +136,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
 * [BeaconKeeper](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
-* [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android](https://github.com/RedBearLab/Android)
@@ -151,7 +148,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Beacon Scanner & Logger](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) Android app that scans for BLE Beacons/iBeacons and logs the results to a file
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
-* [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app)
 
 ## Beacon Advertiser Apps
 
@@ -182,8 +178,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Linux
 
-* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/nirmankarta/PyBeacon)
-* [Dependency-free Eddystone-URL advertisement for embedded linux](https://github.com/superscale/bacon)
+* [Python script for scanning and advertising urls over Eddystone-URL](https://github.com/forksociety/PyBeacon)
 
 # Node.js
 
@@ -198,9 +193,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Bluetooth Low Energy
 
 * [Official Bluetooth Smart Portal](https://www.bluetooth.com/what-is-bluetooth-technology/bluetooth-technology-basics/low-energy)
-* [Bluetooth Smart Go To Market Toolkit](https://www.bluetooth.com/marketing-branding/market-your-bluetooth-product)
-* [Bluetooth BLE Library](http://www.argenox.com/bluetooth-low-energy-ble-v4-0-development/library/)
-
 
 ## Bluetooth Smart & BLE Tools
 
@@ -208,7 +200,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [LightBlue Mac OSX](https://itunes.apple.com/de/app/lightblue/id639944780?mt=12)
 [(or iOS)](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) LightBlue can test all of your devices that use Bluetooth 4.0 Low Energy (also known as Bluetooth Smart, or Bluetooth Light).
 * [BlueSpeed for iOS by Punch Through](https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8) Runs a Bluetooth LE speed test between 2 iOS devices
-* [Nordic BLE nRF Sniffer](https://www.nordicsemi.com/eng/Products/Bluetooth-Smart-Bluetooth-low-energy/nRF-Sniffer)
 
 ## Web Bluetooth API
 
@@ -217,16 +208,11 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Beacon Developer Kits & BLE Chips
 
-* [Dialog Semiconductor Beacon Reference Design](http://support.dialog-semiconductor.com/ref-designs#beacon)
-* [Nordic Semiconductor nRF51822 Bluetooth Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-R-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
-  * [Eddystone GATT Configuration Service for nRF5 devices](https://github.com/NordicSemiconductor/nrf5-sdk-for-eddystone)
 * [Texas Instruments - BLE Portal](http://www.ti.com/ble)
 * [Texas Instruments - SensorTag DeveloperKit](http://makezine.com/2014/04/16/the-ti-sensortag-now-with-added-ibeacon/)
 * [TI SensorTag Android Sources](http://git.ti.com/sensortag-android)
-* [TI Mini Bluetooth® Low Energy Broadcaster](http://www.ti.com/tool/TIDC-MINI-BLUETOOTH-LOW-ENERGY-BROADCASTER)
 * [Broadcom - WICED™ Sense Development Kit](http://www.broadcom.com/application/internet_of_things.php)
 * [Dialog Semiconductor](http://www.dialog-semiconductor.com/bluetooth-smart)
-* [CSR](https://wiki.csr.com/wiki/Main_Page#Bluetooth_Smart) & [CSR Mesh](https://wiki.csr.com/wiki/CSRmesh)
 * [EMMicroelectronics](http://www.emmicroelectronic.com/products/wireless-rf/beacons/embc01)
 
 
@@ -234,7 +220,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Proximity Trends & Outlook
 
 * [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 4 Reasons Why Apple’s iBeacon Is About to Disrupt Interaction Design
-* [Proxbook](https://www.proxbook.com/) The Guide for Proximity Marketing by Unacast
 * [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ is a new Wi-Fi Alliance certification program that extends Wi-Fi’s capabilities with a real-time and energy-efficient discovery mechanism that provides an immediate on-ramp to rich here-and-now experiences.
 
 
@@ -242,10 +227,6 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
-* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github](https://github.com/AwwApps/Open-Beacon-Credentials)
-* [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
-
-
 
 ---
 
@@ -255,4 +236,4 @@ Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the proper
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Square Metrics GmbH](http://www.squaremetrics.com/) has waived all copyright and related or neighboring rights to this work.

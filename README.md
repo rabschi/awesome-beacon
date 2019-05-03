@@ -121,6 +121,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Virtual Beacons
 
+* [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
 * [Android BLE advertising library](https://github.com/uriio/beacons-android)
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
 * [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - uses [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
